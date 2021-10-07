@@ -1,0 +1,36 @@
+body
+{
+    text-align: center;
+}
+h1
+{
+    font-family: cursive;
+    font-size:45;
+    font-weight: 750px;
+    font-variant: small-caps;
+}
+#apps
+{
+    background-color:darksalmon;
+    width: 100%;
+    height: 800px;
+}
+#games
+{
+    background-color: darksalmon;
+    width: 100%;
+    height: 500px;
+}
+#chatbot
+{
+    background-color: darksalmon;
+    width: 100%;
+    height: 800px;
+}
+.line
+{
+    height: 6px;
+    width:80%;
+    margin: 8px auto;
+    background-color: black;
+}
